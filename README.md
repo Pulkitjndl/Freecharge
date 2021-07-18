@@ -3,4 +3,4 @@
 2) used MVVM Architecture Pattern
 3) handled the Api with retrofit
 4) worked on corotines
-5) Used Dependancy Injecton
+5) Used Dependancy Injectons with dagger 2
