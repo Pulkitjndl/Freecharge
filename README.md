@@ -1,4 +1,6 @@
 # Freecharge
-# coded the Android application in the latest Kotlin version.
-# adhere to the Android coding standards.
-# performed it by using MVVM
+1) Made the Android App with advance methedologies
+2) used MVVM Architecture Pattern
+3) handled the Api with retrofit
+4) worked on corotines
+5) Used Dependancy Injecton
