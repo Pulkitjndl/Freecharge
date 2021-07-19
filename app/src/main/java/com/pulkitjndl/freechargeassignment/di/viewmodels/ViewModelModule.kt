@@ -8,7 +8,7 @@ import dagger.Module
 import dagger.multibindings.IntoMap
 
 /**
- * Created by Aakib
+ * Created by Pulkit Jindal
  * Date : 16/July/2021
  * Project : FreechargeAssignment
  */
